@@ -1,3 +1,4 @@
+USE `cine`;
 SELECT pe.apellido, pr.profesion, ge.genero, pe.oscars
                 FROM people pe
                 JOIN profesion pr ON pe.profesion = pr.id_profesion

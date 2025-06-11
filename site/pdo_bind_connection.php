@@ -8,5 +8,5 @@ require_once 'connection1.php'; // IP CIEF
 
 // print_R($_SERVER);
 
-$ipServidor = getHostByName(getHostName());
-echo "IP del servidor: " . $ipServidor;
+// $ipServidor = getHostByName(getHostName());
+// echo "IP del servidor: " . $ipServidor;

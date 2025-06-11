@@ -1,10 +1,8 @@
 <?php
 
-
-
 $host = 'localhost';
 $port = '3307';
-$dbname = 'world';
+$dbname = 'cine';
 $charset = 'utf8mb4';
 $user = 'root';
 $password = 'CIEF1234';
